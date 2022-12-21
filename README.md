@@ -1,2 +1,2 @@
 # Inception
-docker-compose project
+Docker-compose Project
